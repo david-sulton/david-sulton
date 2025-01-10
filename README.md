@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david-sulton
 - 👀 I’m interested in Learning all things IT and CyberSecurity.
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently learning Pentesting. 
 - 💞️ I’m looking to collaborate on nothing at the moment. 
 - 📫 linkedin/in/david-sulton
 
